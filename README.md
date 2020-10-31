@@ -28,18 +28,18 @@ This model is a distinc approach to the style transfer models. The [original wor
 
 <table>
     <tr>
-        <td><img src="./sample_content_images/ahmadreza-rezaie-GhK_NSFL3aQ-unsplash.jpg"  width = 360px height = 640px ></td>
-        <td><img src="./sample_style_images/escher_sphere.jpg" width = 360px height = 640px></td>
-        <td><img src="./output_images/out4.jpg" width = 360px height = 640px></td>
+        <td><img src="./sample_content_images/ahmadreza-rezaie-GhK_NSFL3aQ-unsplash.jpg"  width = 200px height = 300x ></td>
+        <td><img src="./sample_style_images/escher_sphere.jpg" width = 200px height = 300x></td>
+        <td><img src="./output_images/out4.jpg" width = 200px height = 300x></td>
     </tr>
     <tr>
-        <td><img src="./sample_content_images/fabian-petersen-W9D4OU4Yx04-unsplash.jpg"  width = 360px height = 640px ></td>
-        <td><img src="./sample_style_images/mosaic.jpg" width = 360px height = 640px></td>
-        <td><img src="./output_images/out1.jpg" width = 360px height = 640px></td>
+        <td><img src="./sample_content_images/fabian-petersen-W9D4OU4Yx04-unsplash.jpg"  width = 200px height = 300x ></td>
+        <td><img src="./sample_style_images/mosaic.jpg" width = 200px height = 300x></td>
+        <td><img src="./output_images/out1.jpg" width = 200px height = 300x></td>
     </tr>
     <tr>
-        <td><img src="./sample_content_images/adam-fejes-vsngmkpcrJo-unsplash.jpg"  width = 360px height = 640px ></td>
-        <td><img src="./sample_style_images/lion.jpg" width = 360px height = 640px></td>
-        <td><img src="./output_images/out2.jpg" width = 360px height = 640px></td>
+        <td><img src="./sample_content_images/adam-fejes-vsngmkpcrJo-unsplash.jpg"  width = 200px height = 300x ></td>
+        <td><img src="./sample_style_images/lion.jpg" width = 200px height = 300x></td>
+        <td><img src="./output_images/out2.jpg" width = 200px height = 300x></td>
     </tr>
 </table>
