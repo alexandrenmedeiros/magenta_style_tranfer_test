@@ -26,6 +26,20 @@ This model is a distinc approach to the style transfer models. The [original wor
 
 ## Output examples
 
-![Woman with a pencil style](./output_images/out4.jpg)
-![Dog with a mosaic style](./output_images/out1.jpg)
-![Dog with a collorful style](./output_images/out2.jpg)
+<table>
+    <tr>
+        <td><img src="./sample_content_images/ahmadreza-rezaie-GhK_NSFL3aQ-unsplash.jpg"  width = 360px height = 640px ></td>
+        <td><img src="./sample_style_images/escher_sphere.jpg" width = 360px height = 640px></td>
+        <td><img src="./output_images/out4.jpg" width = 360px height = 640px></td>
+    </tr>
+    <tr>
+        <td><img src="./sample_content_images/fabian-petersen-W9D4OU4Yx04-unsplash.jpg"  width = 360px height = 640px ></td>
+        <td><img src="./sample_style_images/mosaic.jpg" width = 360px height = 640px></td>
+        <td><img src="./output_images/out1.jpg" width = 360px height = 640px></td>
+    </tr>
+    <tr>
+        <td><img src="./sample_content_images/adam-fejes-vsngmkpcrJo-unsplash.jpg"  width = 360px height = 640px ></td>
+        <td><img src="./sample_style_images/lion.jpg" width = 360px height = 640px></td>
+        <td><img src="./output_images/out2.jpg" width = 360px height = 640px></td>
+    </tr>
+</table>
